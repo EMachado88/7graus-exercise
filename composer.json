@@ -1,0 +1,17 @@
+{
+    "name": "emachado/7graus-exercise",
+    "type": "project",
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "authors": [
+        {
+            "name": "Emanuel Machado",
+            "email": "emanuel@emachado.pt"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": { "Emachado\\": "src/" }
+    }
+}
